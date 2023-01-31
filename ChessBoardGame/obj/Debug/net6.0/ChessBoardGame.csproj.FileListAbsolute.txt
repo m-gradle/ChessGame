@@ -1,0 +1,15 @@
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\bin\Debug\net6.0\ChessBoardGame.exe
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\bin\Debug\net6.0\ChessBoardGame.deps.json
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\bin\Debug\net6.0\ChessBoardGame.runtimeconfig.json
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\bin\Debug\net6.0\ChessBoardGame.dll
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\bin\Debug\net6.0\ChessBoardGame.pdb
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\obj\Debug\net6.0\ChessBoardGame.csproj.AssemblyReference.cache
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\obj\Debug\net6.0\ChessBoardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\obj\Debug\net6.0\ChessBoardGame.AssemblyInfoInputs.cache
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\obj\Debug\net6.0\ChessBoardGame.AssemblyInfo.cs
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\obj\Debug\net6.0\ChessBoardGame.csproj.CoreCompileInputs.cache
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\obj\Debug\net6.0\ChessBoardGame.dll
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\obj\Debug\net6.0\refint\ChessBoardGame.dll
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\obj\Debug\net6.0\ChessBoardGame.pdb
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\obj\Debug\net6.0\ChessBoardGame.genruntimeconfig.cache
+C:\Users\mwggr\Source\Repos\ChessGame\ChessBoardGame\obj\Debug\net6.0\ref\ChessBoardGame.dll
